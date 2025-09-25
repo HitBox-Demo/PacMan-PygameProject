@@ -1,16 +1,16 @@
-Pacman in Pygame 🎮
+# Pacman in Pygame 🎮
 
 A classic Pacman clone built with Pygame
 .
 Guide Pacman through the maze, eat pellets, avoid ghosts, and aim for the highest score!
 
-📸 Screenshots
+## 📸 Screenshots
 <picture>
-
+![ScreenShot of the game](https://github.com/HitBox-Demo/PacMan-PygameProject/assets/screenshot/Screenshot 2025.png?raw=true)
 </picture>
 
 
-🚀 Features
+## 🚀 Features
 
 Classic Pacman gameplay
 
@@ -21,28 +21,14 @@ Ghost AI with chase and scatter modes
 Score tracking and high-score system
 
 
-
-🛠️ Installation & Setup
-1. Clone the Repository
-git clone https://github.com/Hitbox-Demo/pygame-pacman.git
-cd pygame-pacman
-
-2. Create a Virtual Environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-
-3. Run the Game
-python pacman.py
-
-🎮 Controls
+## 🎮 Controls
 Key	Action
 ⬆️	Move Up
 ⬇️	Move Down
 ⬅️	Move Left
 ➡️	Move Right
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -57,7 +43,7 @@ Push to the branch (git push origin feature/new-feature)
 Open a Pull Request
 
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Pygame
  for the amazing library
