@@ -24,6 +24,7 @@ Score tracking and high-score system
 
 ## 🎮 Controls
 Key	Action
+
 ⬆️	Move Up
 ⬇️	Move Down
 ⬅️	Move Left
