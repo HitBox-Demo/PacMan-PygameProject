@@ -5,9 +5,9 @@ A classic Pacman clone built with Pygame
 Guide Pacman through the maze, eat pellets, avoid ghosts, and aim for the highest score!
 
 ## 📸 Screenshots
-<picture>
-![ScreenShot of the game](https://github.com/HitBox-Demo/PacMan-PygameProject/assets/screenshot/Screenshot 2025.png?raw=true)
-</picture>
+
+![Screenshot of the game](https://raw.githubusercontent.com/HitBox-Demo/PacMan-PygameProject/main/assets/screenshot/Screenshot%202025.png)
+
 
 
 ## 🚀 Features
